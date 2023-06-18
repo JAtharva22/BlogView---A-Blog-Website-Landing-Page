@@ -33,13 +33,13 @@ a:hover {
     top: 0;
     left: 0;
     width: 100;
-    transition: 0.4s;
+    transition: 0.2s;
 }
 
 .shadow {
     background-color: whitesmoke;
     box-shadow: 0.1px 4px black;
-    transition: 0.4s;
+    transition: 0.2s;
 }
 
 .shadow .logo {
